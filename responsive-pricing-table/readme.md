@@ -1,7 +1,7 @@
 ### Exercício 1 - HTML e CSS
 Neste exercício, você deve replicar a tela mostrada na imagem a seguir: 
 
-![exercicioum](./images/exercicio1.png)
+![exercicioum](exercicio1.png)
 
 #### Dicas 
 1. Você provavelmente já identificou que precisará de alguns containers para reproduzir essa imagem; 
