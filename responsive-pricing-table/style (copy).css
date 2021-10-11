@@ -1,0 +1,65 @@
+section{
+  text-align: center;
+}
+
+h1{
+  font-size: 20px;
+}
+
+div{
+  display: inline-block;
+  width: 500px;
+  height: 450px;
+  margin: 5px;
+}
+
+div p{
+  position: relative ;
+  border: 1px solid;
+  top: -20px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+}
+
+div ul{
+  list-style: none;
+  padding: 0px;
+  text-align: center;
+}
+
+div li{
+  border: 1px solid rgb(240, 240, 240);
+  padding: 15px;
+  position: relative;
+  top: -40px;
+}
+
+.btn-box{
+  padding: 30px;
+  background-color: rgb(240, 240, 240);
+}
+
+.btn-sign-up{
+  color: white;
+  border: 1px;
+  background-color: green;
+  padding: 10px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.big-letter{
+  position: relative;
+  font-size: 30px;
+  bottom: 7px;
+}
+
+.pro-plan p{
+  background-color: green;
+}
