@@ -20,8 +20,11 @@ ul{
   list-style: none;
 }
 
+p{
+  margin-right: 40px;
+}
 aside{
-  border: 2px ridge grey;
+  box-shadow: 0px 0px 10px rgb(182, 182, 182);
   width: 30%;
   float: left;
 }
@@ -36,7 +39,6 @@ aside{
 }
 
 img{
-  border: 1px solid red;
   position: relative;
   min-width: 100%;
   max-width: 100%;
@@ -45,8 +47,8 @@ img{
 
 .infos{
   position: relative;
-  border: 1px solid purple;
   top: -50px;
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
 .infos i{
@@ -58,7 +60,7 @@ img{
 .skills{
   position: relative;
   left: -20px;
-  top: -50px;
+  top: -30px;
 }
 
 .skills i{
@@ -109,9 +111,7 @@ img{
 }
 
 .languages{
-  position: relative;
-  border: 1px solid pink;
-  top: -30px;
+  border-top: 1px solid rgba(0, 0, 0, .1);
 }
 
 .languages i{
@@ -146,7 +146,7 @@ img{
 }
 
 .work-experience{
-  border: 1px solid pink;
+  box-shadow: 0px 0px 10px rgb(182, 182, 182);
   width: 65%;
   position: relative;
   float: right;
@@ -160,7 +160,7 @@ img{
 
 .work-experience h1, .education h1{
   position: relative;
-  left: 40px;
+  left: 20px;
   color: rgb(16, 124, 124);
 }
 
@@ -168,7 +168,8 @@ img{
   position: relative;
   float: left;
   color: rgb(16, 124, 124);
-  left: 20px
+  left: 20px;
+  margin-right: 20px;
 }
 
 .work-experience h3, .work-experience p, .education h3, .education p{
@@ -178,36 +179,28 @@ img{
 
 .current-box{
   border: 1px solid rgb(16, 124, 124);
-  color: white;
   background-color: rgb(16, 124, 124);
+  color: white;
   border-radius: 5px;
-  padding: 3px;
-  text-align: center;
-  position: absolute;
+  padding: 2px;
   display: inline-block;
-  left: 50px;
+  margin-top: 0;
+  margin-left: 0px;
+  margin: 0;
 }
 
 .date-colored{
   color: rgb(16, 124, 124);
   position: relative;
   display: inline-block;
-  left: -200px;
+  margin: 0;
+  margin-right: 20px;
 }
 
 .education{
-  border: 1px solid pink;
+  box-shadow: 0px 0px 10px rgb(182, 182, 182);
   width: 65%;
   position: relative;
   float: right;
   top: 20px;
 }
-
-
-
-
-
-
-
-
-
