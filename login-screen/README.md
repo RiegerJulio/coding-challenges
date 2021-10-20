@@ -1,13 +1,19 @@
 ## Dojo de html e css
-Iremos desenvolver um layout de um login
 
+<h2>English Version Avaiable Soon</h2>
+
+Iremos desenvolver um layout de um login
 ## Fazer o clone do repositório
 ```git@github.com:tryber/sd-017-dojo-html-css.git```
 
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
 
-<img src="https://github.com/tryber/sd-017-dojo-html-css/blob/main/img/layout-new.png" widt="750" />
+<img src="img/layout-new.png" width="750" />
+
+Resultado:
+
+<img src="img/login-screen-done.png">
 
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
